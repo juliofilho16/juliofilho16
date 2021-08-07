@@ -23,6 +23,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="" width="40" height="40" style="max-width:100%;">
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="" width="40" height="40" style="max-width:100%;">
    <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="" width="40" height="40" style="max-width:100%;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="" width="40" height="40" style="max-width:100%;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="" width="40" height="40" style="max-width:100%;">
 </div>
 
 <br>
