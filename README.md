@@ -1,28 +1,33 @@
-### Hi there 👋
-## I'm Júlio César
-- :house: I live in Minas Gerais, Brazil
-- :computer: I have been working on MW Software as backend and frontend developer 
-- :fire: I have been learnig about Flutter 
-- 🎓 I'm in the 5th semester of college at the Pontifical Catholic University of Minas Gerais(there's still 3 to go until I graduate)
+### Hi there, I'm Júlio César 👋
 
-## My Skills
+- :house: I live in Minas Gerais, Brazil
+
+- 🔭 **Currently work:** MW Software as backend and frontend developer 
+
+- :man_student: **Studying:** 5th semester of Information Systems in college at [PUC Minas](https://www.pucminas.br/destaques/Paginas/default.aspx);
+
+- :fire: **Learning:** Flutter and Dart
+
+- ❤️ Fun fact: I love music 🎼🎸🎷🎹
+
+## Languages, Frameworks and Tools 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Julio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Julio-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Julio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Julio-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Julio-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img alt="" width="40" height="40" style="max-width:100%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="" width="40" height="40" style="max-width:100%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img alt="" width="40" height="40" style="max-width:100%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="" width="40" height="40" style="max-width:100%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="" width="40" height="40" style="max-width:100%;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg" alt="" width="40" height="40" style="max-width:100%;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="" width="40" height="40" style="max-width:100%;">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="" width="40" height="40" style="max-width:100%;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="" width="40" height="40" style="max-width:100%;">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" alt="" width="40" height="40" style="max-width:100%;">
+   <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" alt="" width="40" height="40" style="max-width:100%;">
 </div>
 
-## Learning
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40" style="max-width:100%;"></img>
-
-## My Another Experience
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ionic/ionic-original.svg" alt="angular" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="angular" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="angular" width="40" height="40" style="max-width:100%;"></img>
-
-
+<br>
+<br>
+<p> Last Edited on: 07/08/2021 </p>
 
 <!--
 **juliofilho16/juliofilho16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
