@@ -9,6 +9,7 @@
 - :fire: **Learning:** Flutter and Dart
 
 - ❤️ Fun fact: I love music 🎼🎸🎷🎹
+- <img width="15" height="15" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"> [My perfil linkedin](https://www.linkedin.com/in/juliocesarmf/)
 
 ## Languages, Frameworks and Tools 
 <div style="display: inline_block"><br>
@@ -29,26 +30,6 @@
 
 <br>
 <br>
-<p> Last Edited on: 07/08/2021 </p>
+<p> Last Edited on: 31/08/2021 </p>
 
-<!--
-**juliofilho16/juliofilho16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<div>
-  <a href="https://github.com/Julioballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=juliofilho16&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliofilho16&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliofilho16&show_icons=true&theme=radical)
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
