@@ -6,7 +6,7 @@
 
 - :man_student: **Studying:** 5th semester of Information Systems in college at [PUC Minas](https://www.pucminas.br/destaques/Paginas/default.aspx);
 
-- :fire: **Learning:** Flutter and Dart
+- :fire: **Learning:** Azure DevOps Server
 
 - ❤️ Fun fact: I love music 🎼🎸🎷🎹
 - <img width="15" height="15" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"> [My perfil linkedin](https://www.linkedin.com/in/juliocesarmf/)
@@ -30,6 +30,6 @@
 
 <br>
 <br>
-<p> Last Edited on: 31/08/2021 </p>
+<p> Last Edited on: 25/06/2022 </p>
 
 
