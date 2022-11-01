@@ -2,9 +2,9 @@
 
 - :house: I live in Minas Gerais, Brazil
 
-- 🔭 **Currently work:** MW Software as backend and frontend developer 
+- 🔭 **Currently work:** Pottencial as Software Developer Jr (backend and frontend) 
 
-- :man_student: **Studying:** 5th semester of Information Systems in college at [PUC Minas](https://www.pucminas.br/destaques/Paginas/default.aspx);
+- :man_student: **Studying:** 8th semester of Information Systems in college at [PUC Minas](https://www.pucminas.br/destaques/Paginas/default.aspx);
 
 - :fire: **Learning:** Azure DevOps Server
 
@@ -30,6 +30,6 @@
 
 <br>
 <br>
-<p> Last Edited on: 25/06/2022 </p>
+<p> Last Edited on: 31/10/2022 </p>
 
 
